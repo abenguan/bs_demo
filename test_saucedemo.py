@@ -31,4 +31,4 @@ def test_saucedemo_products():
             f.write(line + "\n")
 
     # 断言
-    assert len(result_lines) > 0, "未抓取到任何商品,请确认！222255559999"
+    assert len(result_lines) > 0, "未抓取到任何商品,请确认！222255559999888"
